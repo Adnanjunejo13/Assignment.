@@ -1,0 +1,15 @@
+.box{
+    background-color: yellow;
+    height: 150px;
+    width: 300px;
+    border: 1px black solid;
+}
+h1{
+    color: red;
+}
+p{
+   color: blue;
+}
+small{
+    float: right;
+}

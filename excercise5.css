@@ -1,0 +1,14 @@
+.box3{
+    border: 1px solid black;
+    width: 350px;
+    height: 150px;
+}
+h2{
+    background-color: gray;
+}
+h4{
+    background-color: blue;
+}
+p{
+    background-color: yellow;
+}

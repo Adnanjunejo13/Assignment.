@@ -1,0 +1,17 @@
+.box2{
+    background-color:pink;
+    width: 300px;
+    height: 150px;
+}
+h1{
+    color: red;
+    justify-content: center;
+    
+}
+small{
+    color: blue
+}
+p{
+    color: blue;
+    text-shadow: 10px;
+}
